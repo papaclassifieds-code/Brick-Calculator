@@ -1,0 +1,6 @@
+{
+  "name": "Brick Calculator",
+  "description": "Simple and fast brickwork material calculator for estimating bricks, wall volume, mortar, and cement requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
